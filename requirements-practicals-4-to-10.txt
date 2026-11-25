@@ -1,0 +1,14 @@
+# Install in a fresh virtual environment with:
+# python -m pip install -r requirements-practicals-4-to-10.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+torchvision
+fairlearn
+opacus
+importlib-metadata
+jsonschema
+shap
+lime
